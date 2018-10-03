@@ -1,0 +1,26 @@
+E:\Project 2017\SIES\PetShop\PetShop\bin\PetShop.dll
+E:\Project 2017\SIES\PetShop\PetShop\bin\PetShop.pdb
+E:\Project 2017\SIES\PetShop\PetShop\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2017\SIES\PetShop\PetShop\obj\Debug\PetShop.dll
+E:\Project 2017\SIES\PetShop\PetShop\obj\Debug\PetShop.pdb
+E:\Projects\PetShop\PetShop\bin\PetShop.dll
+E:\Projects\PetShop\PetShop\bin\PetShop.pdb
+E:\Projects\PetShop\PetShop\obj\Debug\PetShop.dll
+E:\Projects\PetShop\PetShop\obj\Debug\PetShop.pdb
+E:\Projects\PetShop\PetShop\obj\Debug\PetShop.csprojResolveAssemblyReference.cache
+F:\PetShop\PetShop\bin\PetShop.dll
+F:\PetShop\PetShop\bin\PetShop.pdb
+F:\PetShop\PetShop\obj\Debug\PetShop.csprojResolveAssemblyReference.cache
+F:\PetShop\PetShop\obj\Debug\PetShop.dll
+F:\PetShop\PetShop\obj\Debug\PetShop.pdb
+E:\Project 2018\TYIT\ICL\PetShop\PetShop\bin\PetShop.dll
+E:\Project 2018\TYIT\ICL\PetShop\PetShop\bin\PetShop.pdb
+E:\Project 2018\TYIT\ICL\PetShop\PetShop\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 2018\TYIT\ICL\PetShop\PetShop\obj\Debug\PetShop.dll
+E:\Project 2018\TYIT\ICL\PetShop\PetShop\obj\Debug\PetShop.pdb
+D:\TYCS\PetShop\PetShop\bin\PetShop.dll.config
+D:\TYCS\PetShop\PetShop\bin\PetShop.dll
+D:\TYCS\PetShop\PetShop\bin\PetShop.pdb
+D:\TYCS\PetShop\PetShop\obj\Debug\PetShop.csprojResolveAssemblyReference.cache
+D:\TYCS\PetShop\PetShop\obj\Debug\PetShop.dll
+D:\TYCS\PetShop\PetShop\obj\Debug\PetShop.pdb
